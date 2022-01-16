@@ -1,0 +1,19 @@
+* {
+    font-family: helvetica, sans-serif;
+    background-color: aqua;
+}
+
+h1 {  
+    margin-left: 20px;
+}
+
+img {
+    display: block;
+    margin-left: 20px;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  h3, h4, li {
+      margin-left: 20px;
+  }
